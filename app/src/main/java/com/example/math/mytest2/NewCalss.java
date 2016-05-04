@@ -5,4 +5,5 @@ package com.example.math.mytest2;
  */
 public class NewCalss {
     public  String  ss;
+    public  String  sss;
 }
